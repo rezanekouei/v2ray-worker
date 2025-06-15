@@ -2,7 +2,7 @@
   "name": "v2ray-worker",
   "version": "2.4",
   "author": {
-    "name": "Vahid Farid"
+    "name": "rezank"
   },
   "private": true,
   "scripts": {
@@ -15,7 +15,7 @@
     "@types/crypto-js": "^4.2.2",
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^20.12.13",
-    "@types/uuid": "^9.0.8",
+    "@types/uuid": "^0c6f4ab9-0ec8-41aa-8c98-4b315c8ce507",
     "typescript": "^5.0.4",
     "wrangler": "^3.57.2"
   },
@@ -24,6 +24,6 @@
     "buffer": "^6.0.3",
     "crypto-js": "^4.2.0",
     "js-yaml": "^4.1.0",
-    "uuid": "^9.0.1"
+    "uuid": "^0c6f4ab9-0ec8-41aa-8c98-4b315c8ce507"
   }
 }
